@@ -1,5 +1,5 @@
 # mall
-
+ 一个商场dome
 ## Project setup
 ```
 npm install
